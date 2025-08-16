@@ -1,0 +1,98 @@
+
+
+
+:root{
+    --p_color: #7b7b7b;
+    --bg_color: #f3f3f3;
+    --color_heading: #121416;
+    --border_color: #e5e5e5d5;
+    --main_color: #0a1e35;
+    --border_color_2: #2369b9;
+}
+
+
+
+.intro .container{
+    color: white;
+}
+
+.player{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons-area{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 400px;
+    gap: 20px;
+    overflow-x: hidden;
+}
+
+
+
+#buttonsContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+    position: relative;
+    right: 60px;
+}
+
+#search{
+    height: 40px;
+    width: 400px;
+    outline: 0;
+    border: 3px solid #1d5698;
+    border-radius: 10px;
+    font-size: 16px;
+    background: #071524;
+    color: white;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+#buttonsContainer button{
+    width: 330px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 10px;
+    outline: 0;
+    border: 2px solid #1d5698;
+    background: #071524;
+    color: white;
+    cursor: pointer;
+    font-family: Tahoma, Arial, sans-serif;
+    transition: 0.3s;
+    justify-content: center;
+}
+#buttonsContainer button:hover{
+    background: #1d5698;
+}
+
+#description{
+    width: 700px;
+    background: #071524;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.meta{
+    color: white;
+}
+
+/* description */
+
+.info{
+    width: 90%;
+    background: #040b14;
+    padding: 20px;
+    border-right: 5px solid #FFC107;
+}

@@ -1,0 +1,876 @@
+[
+    {
+        "url": "https://www.youtube.com/embed/iuHLNZuN1GU",
+        "buttonText": "اساسيات الاكسيل",
+        "title": "تعلم كيف تصبح محترف في الاكسيل",
+        "description": "",
+        "name": "الحلقة الاولى excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/NZBeD4bCBmU",
+        "buttonText": "Check Box",
+        "title": "Check Box تتبُع الحضور اليومي",
+        "description": "حول الدرس <h2>سنتعلم في هذا الدرس :</h2> <h3 class='info'>شرح مبسط لكيفية تصميم نموذج يومية حضور (Attendance Log) باستخدام مربعات اختيار (Checkboxes) في Excel.</h3> <p>ما هو check box : <br> الـ check box  هي اداة لتتبع الحضور ومعرفة معاد </p>",
+        "name": "الحلقة الثانية excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/9Lxowa1_5T0",
+        "buttonText": "اهم دوال الاكسيل",
+        "title": "احتراف دوال الاكسيل",
+        "description": "",
+        "name": "الحلقة الثالثة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/k6pk74Wnt3I",
+        "buttonText": "الدوال الاحترافية",
+        "title": "التعامل مع الدوال الاحترافية",
+        "description": "",
+        "name": "الحلقة الرابعة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/mogxDMTlC7s",
+        "buttonText": "الدوال الاحترافية Part- 2",
+        "title": "التعامل مع الدوال الاحترافية part- 2",
+        "description": "",
+        "name": "الحلقة الخامسة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/jmik_4QpSnY",
+        "buttonText": "التنسيق الشرطي",
+        "title": "تعلم اهم اسرار التنسيق الشرطي",
+        "description": "",
+        "name": "الحلقةالسادسة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/dPfW3hmdnsc",
+        "buttonText": "Povit Table",
+        "title": "كيفة عمل الجداول المحورية",
+        "description": "",
+        "name": "الحلقةالسابعة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/B4mrciTuCB4",
+        "buttonText": "Copy & Paste",
+        "title": "اهم اسرار النسخ والصق",
+        "description": "",
+        "name": "الحلقةالثامنة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/ot5WDY0qFoU",
+        "buttonText": "تتبع الحضور والانصراف",
+        "title": "تتبع الحضور والانصراف اليومي",
+        "description": "",
+        "name": "الحلقةالتاسعة excel",
+        "category": "excel"
+    },
+    {
+        "url": "https://www.youtube.com/embed/dT8aOFvbEE0",
+        "buttonText": "اهم اختصارات الاكسيل",
+        "title": "اهم 17 اختصار في الاكسيل لم تكن تعلم عنهم اي شئ",
+        "description": "",
+        "name": "الحلقةالعاشرة excel",
+        "category": "excel"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/pvkZsQCWyZI",
+        "buttonText": "كورس اكسس للاحتراف",
+        "title": "كورس اكسس من البداية الى الاحتراف",
+        "description": "",
+        "name": "الحلقة الاولى access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/euQRCysX6D0",
+        "buttonText": "مقدمة عن الاكسس",
+        "title": "تعلم اكسس حتى تصبح محترف",
+        "description": "",
+        "name": "الحلقة الثانية access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/6x-5AOg3vUM",
+        "buttonText": "انشاء الجداول",
+        "title": "انشاء الجداول في الاكسس بشكل احترافي",
+        "description": "",
+        "name": "الحلقة الثالثة access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/iU2x11dOULw",
+        "buttonText": "Relationships",
+        "title": "ما هي الـ Relationships وكيفية انشاء الاستعلامات",
+        "description": "",
+        "name": "الحلقة الرابعة access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/wyTj7JLgiC4",
+        "buttonText": "اهم مهارات الاكسس",
+        "title": "خدع وهارات رائعة في برنامج الاكسس",
+        "description": "",
+        "name": "الحلقة الخامسة access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/VbCHUItCjpM",
+        "buttonText": "انشاء قاعدة بيانات",
+        "title": "انشاء قاعدة بيانات على برنامج الاكسس",
+        "description": "",
+        "name": "الحلقة السادسة access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/LCSuvCoeAAE",
+        "buttonText": "Check Box في الاكسس",
+        "title": "كيفية استخدام مربعات الاختيار (Check Box)",
+        "description": "",
+        "name": "الحلقة السابعة access",
+        "category": "access"
+    },
+    {
+        "url": "https://www.youtube.com/embed/--3UUz5a-gE",
+        "buttonText": "قاعدة بيانات",
+        "title": "انشاء قاعدة بيانات على برنامج الاكسس",
+        "description": "",
+        "name": "الحلقة الثامنة access",
+        "category": "access"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/cVpsC8cVgdU",
+        "buttonText": "تحليل البيانات",
+        "title": "تعلم كيفية تحليل البيانات باستخدام الاكسيل",
+        "description": "",
+        "name": "الحلقة الاولى analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/wTiiuXo6qgo",
+        "buttonText": "ما هو تحليل البيانات",
+        "title": "لماذا يعتبر الاكسيل من اهم ادوات التحليل",
+        "description": "",
+        "name": "الحلقة الثانية analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/yRW8ABx3ZmY",
+        "buttonText": "تنظيف البيانات",
+        "title": "تنظيف البيانات قبل التحليل",
+        "description": "",
+        "name": "الحلقة الثالثة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/S7Xj6g2AEtI",
+        "buttonText": "تحويل الجداول",
+        "title": "كيفية تحويل الجدول العدي الى Excel Table",
+        "description": "",
+        "name": "الحلقة الرابعة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/UngKXm6M0Ns",
+        "buttonText": "التحقق من صحة البيانات",
+        "title": "التحقق من صحة البيانات (Data Validation)",
+        "description": "",
+        "name": "الحلقة الخامسة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/JcZDlwRVUvQ",
+        "buttonText": "اهم دوال الاكسيل",
+        "title": "اهم دوال التلخيص في الاكسيل (SUM, AVERAGE, COUNT)",
+        "description": "",
+        "name": "الحلقة السادسة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/e6o7AtFVTHs",
+        "buttonText": "الدوال الشرطية",
+        "title": "الدوال الشرطية في الاكسيل (SUMIF, COUNTIF, IF)",
+        "description": "",
+        "name": "الحلقة السابعة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Ays1IE6XVjE",
+        "buttonText": "الدوال الشرطية باكثر من شرط",
+        "title": "الدوال الشرطية باكثر من شرط (SUMIFS, COUNTIFS, IFS)",
+        "description": "",
+        "name": "الحلقة الثامنة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/b8lQ-Ft_lS8",
+        "buttonText": "الدالة XLOOKUP",
+        "title": "شرح الدالة المهمة جدا XLOOKUP",
+        "description": "",
+        "name": "الحلقة التاسعة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/aLRg3I8NqxA",
+        "buttonText": "الدالة (MID - FIND - LEFT - RIGHT)",
+        "title": "معالجة النصوص في الاكسيل باستخدام الدالة (MID - FIND - LEFT - RIGHT)",
+        "description": "",
+        "name": "الحلقة العاشرة analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/6xAV06N8H3Q",
+        "buttonText": "Povite Table",
+        "title": "كيفية استخدام الـ Povite Table",
+        "description": "",
+        "name": "الحلقة الحادية عشر analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/fTdVXC_KVHg",
+        "buttonText": "Povite Table",
+        "title": "بناء Povite Table لتحليل البيانات",
+        "description": "",
+        "name": "الحلقة الثانية عشر analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/5he2Pecrn-4",
+        "buttonText": "تطبيق عملي على Povite Table",
+        "title": "تطبيق عملى على تحليل البيانات باستخدام Povite Table",
+        "description": "",
+        "name": "الحلقة الثالثة عشر analysis",
+        "category": "analysis"
+    },
+    {
+        "url": "https://www.youtube.com/embed/rquUrvtSfxU",
+        "buttonText": "SLICER",
+        "title": "اضافة SLICER لتصفية البيانات في Povite Table",
+        "description": "",
+        "name": "الحلقة الرابعة عشر analysis",
+        "category": "analysis"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/2Xt4z6i2WvE",
+        "buttonText": "تعلم Power BI",
+        "title": "كورس Power BI من الصفر",
+        "description": "",
+        "name": "الحلقة الاولى power bi",
+        "category": "power BI"
+    },
+    {
+        "url": "https://www.youtube.com/embed/U82_QxedEfU",
+        "buttonText": "تحميل وتثبيت Power BI",
+        "title": "تحميل وتثبيت Power BI",
+        "description": "",
+        "name": "الحلقة الثانية power bi",
+        "category": "power BI"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Uxj2p6r5Um4",
+        "buttonText": "شرح واجهة Power BI",
+        "title": "شرح واجهة وقوائم الـ Power BI",
+        "description": "",
+        "name": "الحلقة الثالثة power bi",
+        "category": "power BI"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Ll3QZKge5HQ",
+        "buttonText": "استرداد البيانات من الاكسيل",
+        "title": "كيفية استرداد البيانات من الاكسيل الى Power BI",
+        "description": "",
+        "name": "الحلقة الرابعة power bi",
+        "category": "power BI"
+    },
+    {
+        "url": "https://www.youtube.com/embed/9QCXxKdBULI",
+        "buttonText": "معالجة البيانات",
+        "title": "معالجة البيانات في Power Query",
+        "description": "",
+        "name": "الحلقة الخامسة power bi",
+        "category": "power BI"
+    },
+    {
+        "url": "https://www.youtube.com/embed/e_5HKWkKvK8",
+        "buttonText": "Visualization",
+        "title": "كيفية انشاء التصورات البصرية",
+        "description": "",
+        "name": "الحلقة السادسة power bi",
+        "category": "power BI"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/haO1djadci0",
+        "buttonText": "اتمتة البيانات",
+        "title": "اول خطوة نحو اتمتة البيانات",
+        "description": "",
+        "name": "الحلقة الاولى power query",
+        "category": "power query"
+    },
+    {
+        "url": "https://www.youtube.com/embed/5z_IR5XrAOg",
+        "buttonText": "استرداد البيانات",
+        "title": "استرداد البيانات في دقائق الى Power Query",
+        "description": "",
+        "name": "الحلقة الثانية power query",
+        "category": "power query"
+    },
+    {
+        "url": "https://www.youtube.com/embed/mr1JMUt8Ans",
+        "buttonText": "Share Point Folder",
+        "title": "استرداد البيانات من Share Point Folder",
+        "description": "",
+        "name": "الحلقة الثالثة power query",
+        "category": "power query"
+    },
+    {
+        "url": "https://www.youtube.com/embed/D52D1hpDSkw",
+        "buttonText": "معالجة البيانات",
+        "title": "معالجة البيانات على Power Query",
+        "description": "",
+        "name": "الحلقة الرابعة power query",
+        "category": "power query"
+    },
+    {
+        "url": "https://www.youtube.com/embed/TzzWLuHS_uE",
+        "buttonText": "تنظيم البيانات",
+        "title": "تعلم Power Query في دقائق واتقن تنظيم وتقسيم البيانات",
+        "description": "",
+        "name": "الحلقة الخامسة power query",
+        "category": "power query"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/GeoWFXkDjJk",
+        "buttonText": "اهم مهارة في الـ Word",
+        "title": "اهم مهارة في الـ Word (تحويل الارقام الى حروف)",
+        "description": "",
+        "name": "الحلقة الاولى word",
+        "category": "word"
+    },
+    {
+        "url": "https://www.youtube.com/embed/RYpTPRmkI8o",
+        "buttonText": "استخراج النصوص",
+        "title": "كيفية استخراج النصوص من الصور عن طريق الـ word",
+        "description": "",
+        "name": "الحلقة الثانية word",
+        "category": "word"
+    },
+    {
+        "url": "https://www.youtube.com/embed/8EB8yfjVF7Q",
+        "buttonText": "استخراج النصوص part- 2",
+        "title": "كيفية استخراج النصوص من الصور عن طريق الـ word",
+        "description": "",
+        "name": "الحلقة الثالثة word",
+        "category": "word"
+    },
+    {
+        "url": "https://www.youtube.com/embed/DWzHTq0YxdI",
+        "buttonText": "الترقيم التلقائي",
+        "title": "الترقيم التلقائي في برنامج الـ Word",
+        "description": "",
+        "name": "الحلقة الرابعة word",
+        "category": "word"
+    },
+    {
+        "url": "https://www.youtube.com/embed/_OBQFPPuF2k",
+        "buttonText": "اهم اسرار الـ Word",
+        "title": "اسرار لا تعرفها في برنامج الـ Word ستوفر عليك مجهود كبير جداً",
+        "description": "",
+        "name": "الحلقة الخامسة word",
+        "category": "word"
+    },
+  
+    {
+        "url": "https://www.youtube.com/embed/bY2OP9N6gIA",
+        "buttonText": "الدالة SUM",
+        "title": "شرح الدالة SUM التي تعد من اهم دوال الاكسيل",
+        "description": "",
+        "name": "الحلقة الاولى دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/TRlZUsOZNQA",
+        "buttonText": "الدالة COUNT & COUNTA",
+        "title": "شرح الدالة COUNT لحساب عدد الخلايا التي تحتوي على قيمة",
+        "description": "",
+        "name": "الحلقة الثانية دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/CbT3xJQB4TM",
+        "buttonText": "الدالة AVERAGE",
+        "title": "شرح الدالة AVERAGE متوسط او المعدل",
+        "description": "",
+        "name": "الحلقة الثالثة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Hl3gC27ZDMg",
+        "buttonText": "الدالة MAX & MIN",
+        "title": "شرح الدالة MAX (لحساب اعلى قيمة) & الدالة MIN(لحساب اقل قيمة)",
+        "description": "",
+        "name": "الحلقة الرابعة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/wHezWJamfFs",
+        "buttonText": "الدالة MID",
+        "title": "استخدام الدالة MID للحصول على جزء من النصوص",
+        "description": "",
+        "name": "الحلقة الخامسة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/36kp-6iSPRA",
+        "buttonText": "الدالة LEFT & RIGHT",
+        "title": "الدالة LEFT & RIGHT للحصول على جزء من اطراف الخلية",
+        "description": "",
+        "name": "الحلقة السادسة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/YkdUMAPwN7I",
+        "buttonText": "اقوى تجميعة لدوال الاكسيل",
+        "title": "شرح العديد من الدوال المهمة في الاكسيل",
+        "description": "",
+        "name": "الحلقة السابعة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/L4t7n2K9G_w",
+        "buttonText": "الدالة LEN",
+        "title": "شرح الدالة LEN للحصول على عدد الحروف داخل الخلية",
+        "description": "",
+        "name": "الحلقة الثامنة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Go1Dsc91d5c",
+        "buttonText": "الدالة NOW & TODAY",
+        "title": "الدالة NOW & TODAY للحصول على الوقت الحالي",
+        "description": "",
+        "name": "الحلقة التاسعة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/8laiZ5jcc2I",
+        "buttonText": "الدالة VLOOKUP",
+        "title": "شرح الدالة المهمة جدا VLOOXUP",
+        "description": "",
+        "name": "الحلقة العاشرة دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/wXWVRSDHlm4",
+        "buttonText": "اهم المعادلات في الاكسيل",
+        "title": "معادلات لا يمكن الاستغناء عنها في الاكسيل",
+        "description": "",
+        "name": "الحلقة الحادية عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/r-9H1HirXVs",
+        "buttonText": "الدالة SUBSTITUTE",
+        "title": "الدالة SUBSTITUTE لاستبدال نص داخل الخلية",
+        "description": "",
+        "name": "الحلقة الثانية عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/BVIw2RbfDQQ",
+        "buttonText": "الدالة UPPER & LOWER",
+        "title": "تحويل حالة الحروف باستخدام UPPER & LOWER",
+        "description": "",
+        "name": "الحلقة الثالثة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Ac4Idthxrvw",
+        "buttonText": "الدالة UPPER",
+        "title": "شرح الدالة UPPER",
+        "description": "",
+        "name": "الحلقة الرابعة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/E6sLHXH-iPI",
+        "buttonText": "الدالة IFS",
+        "title": "شرح الدالة المهمة جدا IFS",
+        "description": "",
+        "name": "الحلقة الخامسة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/57IUTVotin0",
+        "buttonText": "الدالة RANDBETWEEN ",
+        "title": "توليد ارقام عشوائية باستخدام الدالة RANDBETWEEN",
+        "description": "",
+        "name": "الحلقة السادسة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/1JmKd-Znfh8",
+        "buttonText": "دمج الجداول باستخدام الدالة HSTACK & VSTACK",
+        "title": "شرح الدالة HSTACK & VSTACK لدمج الجداول",
+        "description": "",
+        "name": "الحلقة السابعة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/hri3449SQpE",
+        "buttonText": "الدالة SUMIF",
+        "title": "شرح الدالة SUMIF",
+        "description": "",
+        "name": "الحلقة الثامنة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/9OJu3Uh10yE",
+        "buttonText": "الدالة SUMIFS",
+        "title": "شرح الدالة SUMIFS",
+        "description": "",
+        "name": "الحلقة التاسعة عشر دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/3xxTSUXkcIA",
+        "buttonText": "معرفة الفرق بين الدالة SUM & SUMIF & SUMIFS",
+        "title": "الفرق بين الدالة SUM & SUMIF & SUMIFS واستخدامتهم",
+        "description": "",
+        "name": "الحلقة العشرون دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/RMdT8-EJB44",
+        "buttonText": "تحويل الارقام الى نصوص والعكس",
+        "title": "اسهل طريقتان لتحويل الارقام الى نصوص",
+        "description": "",
+        "name": "الحلقة الواحد والعشرون دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/rPEM67NIZB8",
+        "buttonText": "الدالة VSTACK",
+        "title": "شرح الدالة VSTACK",
+        "description": "",
+        "name": "الحلقة الثاني والعشرون دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Jmp_S3So8U8",
+        "buttonText": "شرح الدالة HSTACK & VSTACK",
+        "title": "شرح الدالة HSTACK & VSTACK",
+        "description": "",
+        "name": "الحلقة الثالث والعشرون دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/Pt-e1wqF5ps",
+        "buttonText": "الدالة HSTACK",
+        "title": "",
+        "description": "",
+        "name": "الحلقة الرابع والعشرون دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/grxX8lrfH3o",
+        "buttonText": "فصل التاريخ عن الوقت",
+        "title": "كيفية فصل التاريخ عن الوقت باستخدام Flash Fill & Text to Columns",
+        "description": "",
+        "name": "الحلقة الاولى دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/RCGpzSpvzh4",
+        "buttonText": "دمج الجداول عموديا باستخدام VSTACK",
+        "title": "دمج الجداول عموديا باستخدام VSTACK",
+        "description": "",
+        "name": "الحلقة الاولى دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+    {
+        "url": "https://www.youtube.com/embed/_UQsQkO1RBc",
+        "buttonText": "دمج الجداول رأسياً باستخدام HSTACK",
+        "title": "دمج الجداول رأسياً باستخدام HSTACK",
+        "description": "",
+        "name": "الحلقة الاولى دوال الاكسيل",
+        "category": "دوال الاكسيل"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/dPfW3hmdnsc",
+        "buttonText": "شرح PIVOT TABLE",
+        "title": "شرح Pivot Table الجداول المحوريه فى الاكسيل",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/cipMLNoh5a0",
+        "buttonText": "تحليل البيانات باستخدام PIVOT TABLE",
+        "title": "تحليل البيانات باستخدام PIVOT TABLE",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/RLLZfj1SGr8",
+        "buttonText": "كيفية انشاء PIVOT TABLE",
+        "title": "كيفية انشاء PIVOT TABLE",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/cV5or2wdoK8",
+        "buttonText": "التعرف على واجهة PIVOT TABLE",
+        "title": "تحليل البيانات باحتراف و التعرف على واجهة PIVOT TABLE",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/xvcCV7XC1Zs",
+        "buttonText": "كيفية استخدام PIVOT TABLE",
+        "title": "كيفية استخدام Pivot Table فى تحليل البيانات",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/7dsp5aXH-qQ",
+        "buttonText": "تغيير مصدر البيانات",
+        "title": "كيفية تغيير مصدر بيانات PIVOT TABLE",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/w9O4xAcUqJQ",
+        "buttonText": "SLICER",
+        "title": "كيفية استخدام SLICER في تحليل البيانات",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+    {
+        "url": "https://www.youtube.com/embed/qijrZRBOHLQ",
+        "buttonText": "اضافة اعمدة داخل PIVOT TABLE",
+        "title": "اضافة اعمدة و عمليات حسابية داخل PIVOT TABLE",
+        "description": "",
+        "name": "",
+        "category": "pivot table"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/tlLfgVFgjx8",
+        "buttonText": "مهارات وخدع Power Point",
+        "title": "تعلم اهم مهارات وخدع Power Point",
+        "description": "",
+        "name": "",
+        "category": "power point"
+    },
+    {
+        "url": "https://www.youtube.com/embed/BDVJ82B8eQI",
+        "buttonText": "اضافة تايمر في Power Point",
+        "title": "تعلم كيفية اضافة تايمر في Power Point",
+        "description": "",
+        "name": "",
+        "category": "power point"
+    },
+    {
+        "url": "https://www.youtube.com/embed/PCg8xxdKWf8",
+        "buttonText": "الانتقال بين الشرائح",
+        "title": "الانتقال بين الشرائح في Power Point",
+        "description": "",
+        "name": "",
+        "category": "power point"
+    },
+    {
+        "url": "https://www.youtube.com/embed/nbrPJ5fp1xU",
+        "buttonText": "ازالة خلفية صورة",
+        "title": "تعلم كيفية ازالة صورة في Power Point",
+        "description": "",
+        "name": "",
+        "category": "power point"
+    },
+    {
+        "url": "https://www.youtube.com/embed/_aF9kYohqD8",
+        "buttonText": "تحويل ملف Power Point الى PDF",
+        "title": "كيفية تحويل ملف Power Point الى PDF",
+        "description": "",
+        "name": "",
+        "category": "power point"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/dT8aOFvbEE0",
+        "buttonText": "اهم 17 اختصار في الاكسيل",
+        "title": "تعلم اهم 17 اختصار في الاكسيل",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+    {
+        "url": "https://www.youtube.com/embed/UpMT42B4O24",
+        "buttonText": "اهم 17 اختصار في الاكسيل -1",
+        "title": "اهم 17 اختصار في الاكسيل -1",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+    {
+        "url": "https://www.youtube.com/embed/x3U7K2rjx-M",
+        "buttonText": "اهم 17 اختصار في الاكسيل -2",
+        "title": "اهم 17 اختصار في الاكسيل -2",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+    {
+        "url": "https://www.youtube.com/embed/QQuU_m3NbTg",
+        "buttonText": "اهم 17 اختصار في الاكسيل -3",
+        "title": "اهم 17 اختصار في الاكسيل -3",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+    {
+        "url": "https://www.youtube.com/embed/jd34wuu-2aQ",
+        "buttonText": "اسرع طريقة لاضافة الصفوف والاعمدة",
+        "title": "تعلم اسرع طريقة لاضافة الصفوف والاعمدة",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+    {
+        "url": "https://www.youtube.com/embed/-Eb_5E9_xA0",
+        "buttonText": "اهم 17 اختصار في الاكسيل -4",
+        "title": "اهم 17 اختصار في الاكسيل -4",
+        "description": "",
+        "name": "",
+        "category": "17 اختصار"
+    },
+
+    {
+        "url": "https://www.youtube.com/embed/YSFMis-08AE",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/VfbA9qgglDQ",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/GeoWFXkDjJk",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/bwXxC-QSgcM",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/71PPdLOOHnI",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/3Ag5ckmJvnU",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/zUelrC0YH0Y",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/bH3lXiKsF58",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/XN8D7t99t1A",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/Ay0zBTg3-8E",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/bZE3BIiKDYU",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/wk9ttg7tnes",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/DWzHTq0YxdI",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    },
+    {
+        "url": "https://www.youtube.com/embed/4KHb3M-jCLw",
+        "buttonText": "",
+        "title": "",
+        "description": "",
+        "name": "",
+        "category": ""
+    }
+]

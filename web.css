@@ -1,0 +1,146 @@
+
+
+
+
+:root{
+    --p_color: #7b7b7b;
+    --bg_color: #f3f3f3;
+    --color_heading: #121416;
+    --border_color: #e5e5e5d5;
+    --main_color: #0a1e35;
+    --border_color_2: #2369b9;
+}
+
+.container{
+    color: white;
+    width: 90%;
+}
+
+p{
+    color: white;
+}
+
+/* start intro */
+
+.intro .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.intro .container .welcoming{
+    width: 30%;
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+}
+
+.intro .container .welcoming p{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.intro .container .social_links{
+    justify-content: center;
+}
+
+.intro .container .inter{
+    position: relative;
+    left: 100px;
+    padding-right: 50px;
+}
+
+.intro .container .inter i{
+    color: white;
+    font-size: 160px;
+    padding: 20px;
+    border: 2px solid white;
+    margin-bottom: 20px;
+}
+
+.intro .container .inter {
+    color: white;
+    text-align: center;
+}
+
+/* end intro */
+
+/* start courses_chap */
+
+.courses_chap .courses_intro,
+.courses_chap .courses_sources{
+    color: white;
+    text-align: center;
+}
+
+
+/* end courses_chap */
+
+.course_sections .container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.course_sections .container .section{
+    width: 22%;
+    background: #0B1C2D;
+    border-radius: 13px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 0;
+    transition: 0.5s;
+}
+.course_sections .container .section:hover{
+    top: -5px;
+}
+.course_sections .container .section img{
+    width: 100%;
+    height: 145px;
+    border-radius: 13px 13px 0 0;
+}
+.course_sections .container .section h3 {
+    color: white;
+    margin-right: 15px;
+}
+.course_sections .container .section a{
+    text-decoration: none;
+}
+
+.last_courses .container{
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+
+
+.last_courses .container .section_1{
+    width: 26%;
+    background: #0B1C2D;
+    border-radius: 13px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 0;
+    transition: 0.5s;
+}
+.last_courses .container .section_1:hover{
+    top: -5px;
+}
+.last_courses .container .section_1 img{
+    width: 100%;
+    height: 145px;
+    border-radius: 13px 13px 0 0;
+}
+.last_courses .container .section_1 h3 {
+    color: white;
+    margin-right: 15px;
+}
+.last_courses .container .section_1 a{
+    text-decoration: none;
+}
